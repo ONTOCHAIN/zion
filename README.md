@@ -1,5 +1,8 @@
 <img src="./doc/logo.png" width="50%"/>
 
+# Not matained NOTICE: We do not keep this repository up to date.
+This forked repository is used as a archive for the results of the ONTOCHAIN open call 2
+
 <a href="https://github.com/vaimee/zion/actions" target="_blank"><img src="https://shields.io/github/workflow/status/vaimee/zion/Main.svg?style=flat-square&logo=github&label=CI" alt="CI status" /></a>
 <a href="https://github.com/vaimee/zion/issues" target="_blank"><img src="https://img.shields.io/github/issues/vaimee/zion.svg?style=flat-square" alt="Issues" /></a>
 <a href="https://github.com/vaimee/zion/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/vaimee/zion.svg?style=flat-square" alt="License" /></a>
